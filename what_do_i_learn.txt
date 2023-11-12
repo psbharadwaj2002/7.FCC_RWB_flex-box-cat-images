@@ -1,0 +1,5 @@
+Gap => row-gap, column-gap
+::after
+Object-fit
+Text-transform
+width: 100%, max-width: px
